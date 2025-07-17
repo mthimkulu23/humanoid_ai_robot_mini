@@ -1,0 +1,82 @@
+2025-07-17 11:22:24,786 - root - INFO - Logging setup with level INFO to data/logs/robot.log
+2025-07-17 11:22:24,786 - __main__ - INFO - Starting MiniBot...
+2025-07-17 11:22:24,787 - __main__ - INFO - All robot components initialized.
+2025-07-17 11:22:24,787 - __main__ - INFO - Sensor input loop started.
+2025-07-17 11:22:24,787 - __main__ - INFO - Data processing loop started.
+2025-07-17 11:22:24,787 - __main__ - INFO - Brain cognitive loop started.
+2025-07-17 11:22:29,837 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.1.35:5000
+2025-07-17 11:22:29,837 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 11:25:17,153 - __main__ - INFO - MiniBot shutting down.
+2025-07-17 11:25:17,155 - __main__ - INFO - Cleanup complete. Goodbye!
+2025-07-17 11:29:14,818 - root - INFO - Logging setup with level INFO to data/logs/robot.log
+2025-07-17 11:29:14,818 - __main__ - INFO - Starting MiniBot...
+2025-07-17 11:29:14,819 - __main__ - INFO - All robot components initialized.
+2025-07-17 11:29:14,819 - __main__ - INFO - Sensor input loop started.
+2025-07-17 11:29:14,819 - __main__ - INFO - Data processing loop started.
+2025-07-17 11:29:14,819 - __main__ - INFO - Brain cognitive loop started.
+2025-07-17 11:29:19,831 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.1.35:5000
+2025-07-17 11:29:19,831 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 11:31:14,462 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 11:31:14] "GET / HTTP/1.1" 200 -
+2025-07-17 11:31:14,551 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 11:31:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-17 11:31:45,777 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 11:31:45] "GET /status HTTP/1.1" 200 -
+2025-07-17 11:32:06,408 - __main__ - INFO - MiniBot shutting down.
+2025-07-17 11:32:06,410 - __main__ - INFO - Cleanup complete. Goodbye!
+2025-07-17 11:34:11,252 - root - INFO - Logging setup with level INFO to data/logs/robot.log
+2025-07-17 11:34:11,252 - __main__ - INFO - Starting MiniBot...
+2025-07-17 11:34:11,253 - __main__ - INFO - All robot components initialized.
+2025-07-17 11:34:11,253 - __main__ - INFO - Sensor input loop started.
+2025-07-17 11:34:11,253 - __main__ - INFO - Data processing loop started.
+2025-07-17 11:34:11,253 - __main__ - INFO - Brain cognitive loop started.
+2025-07-17 11:34:16,287 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.1.35:5000
+2025-07-17 11:34:16,287 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 11:34:28,144 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 11:34:28] "GET /status HTTP/1.1" 200 -
+2025-07-17 11:34:56,145 - __main__ - INFO - MiniBot shutting down.
+2025-07-17 11:34:56,145 - __main__ - INFO - Cleanup complete. Goodbye!
+2025-07-17 11:36:19,707 - root - INFO - Logging setup with level INFO to data/logs/robot.log
+2025-07-17 11:36:19,707 - __main__ - INFO - Starting MiniBot...
+2025-07-17 11:36:19,708 - __main__ - INFO - All robot components initialized.
+2025-07-17 11:36:19,708 - __main__ - INFO - Sensor input loop started.
+2025-07-17 11:36:19,708 - __main__ - INFO - Data processing loop started.
+2025-07-17 11:36:19,708 - __main__ - INFO - Brain cognitive loop started.
+2025-07-17 11:36:24,721 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.1.35:5000
+2025-07-17 11:36:24,722 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 11:36:25,231 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 11:36:25] "GET / HTTP/1.1" 200 -
+2025-07-17 11:38:14,151 - __main__ - INFO - MiniBot shutting down.
+2025-07-17 11:38:14,157 - __main__ - INFO - Cleanup complete. Goodbye!
+2025-07-17 11:51:25,513 - root - INFO - Logging setup with level INFO to data/logs/robot.log
+2025-07-17 11:51:25,513 - __main__ - INFO - Starting MiniBot...
+2025-07-17 11:51:25,514 - __main__ - INFO - All robot components initialized.
+2025-07-17 11:51:32,443 - __main__ - INFO - Sensor input loop started.
+2025-07-17 11:51:32,444 - __main__ - INFO - Data processing loop started.
+2025-07-17 11:51:32,444 - __main__ - INFO - Brain cognitive loop started.
+2025-07-17 11:51:37,454 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.1.35:5000
+2025-07-17 11:51:37,454 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 11:51:46,898 - __main__ - INFO - MiniBot shutting down.
+2025-07-17 11:51:46,899 - __main__ - INFO - Cleanup complete. Goodbye!
+2025-07-17 11:53:38,921 - root - INFO - Logging setup with level INFO to data/logs/robot.log
+2025-07-17 11:53:38,921 - __main__ - INFO - Starting MiniBot...
+2025-07-17 11:53:38,922 - __main__ - INFO - All robot components initialized.
+2025-07-17 11:53:44,387 - __main__ - INFO - Sensor input loop started.
+2025-07-17 11:53:44,387 - __main__ - INFO - Data processing loop started.
+2025-07-17 11:53:44,387 - __main__ - INFO - Brain cognitive loop started.
+2025-07-17 11:53:49,400 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.1.35:5000
+2025-07-17 11:53:49,400 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-17 11:53:49,557 - werkzeug - INFO - 127.0.0.1 - - [17/Jul/2025 11:53:49] "GET / HTTP/1.1" 200 -

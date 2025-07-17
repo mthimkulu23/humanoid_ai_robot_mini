@@ -1,0 +1,29 @@
+# Python dependencies for Humanoid AI Robot Mini
+
+# For general utilities, logging
+# No specific external libraries strictly required for this basic structure,
+# but common ones for robotics/AI projects would include:
+
+# For hardware communication (e.g., serial port)
+# pyserial
+
+# For computer vision (if implementing actual object detection)
+# opencv-python
+# numpy
+
+# For speech recognition (if using local models or specific APIs)
+# SpeechRecognition
+# PyAudio # for microphone access
+
+# For text-to-speech
+gTTS # Required for text-to-speech generation
+
+# For machine learning models (if adding more complex AI)
+# tensorflow
+# pytorch
+# scikit-learn
+
+# For web API (if UI_MODE is 'API')
+Flask
+# uvicorn
+# fastapi
